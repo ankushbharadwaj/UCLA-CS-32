@@ -1,6 +1,6 @@
 # UCLA-CS-32
 
-This repository consists the implementations of projects developed for CS 32: Introduction to Computer Science II, taken Spring 2019 with Professor Stahl.
+This repository consists the implementations of projects developed for CS 32: Introduction to Computer Science II, taken Spring 2019 with Professor Smallberg.
 
 [Diff File Creator](https://github.com/ankushbharadwaj/UCLA-CS-32/tree/master/Diff%20File%20Creator): Developed and implemented hash table and associated hash function to produce a diff file given original and revised files as well as convert original file into revised file given associated diff file.
 
