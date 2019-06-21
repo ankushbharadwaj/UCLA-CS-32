@@ -8,6 +8,6 @@ This repository consists the implementations of projects developed for CS 32: In
 
 [Maze Solver](https://github.com/ankushbharadwaj/UCLA-CS-32/tree/master/Maze%20Solver): Given a maze with 'X' resembling walls and '.' resembling path, solve the maze using following approaches: stack, queue, and recursion. 
 
-[Send Alerts via Medium](https://github.com/ankushbharadwaj/UCLA-CS-32/tree/master/Send%20Alerts%20via%20Medium): Use base and derived classes that represents different forms of digital communication (phone calls, texts, emails, Twitter) to communicate alert messages. 
+[Send Alerts via Medium](https://github.com/ankushbharadwaj/UCLA-CS-32/tree/master/Send%20Alerts%20via%20Medium): Use base and derived classes that represent different forms of digital communication (phone calls, texts, emails, Twitter) to communicate alert messages. 
 
 [Sequence](https://github.com/ankushbharadwaj/UCLA-CS-32/tree/master/Sequence): Create sequence of items of user defined type using following implementations: dynamically allocated array and circularly linked list. 
